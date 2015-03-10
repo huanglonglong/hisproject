@@ -1,3 +1,4 @@
 hi
 Creating a new branch
-simple&hi
+<<<<<<< HEAD
+simple and nice
